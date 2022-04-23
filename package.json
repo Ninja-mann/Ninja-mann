@@ -34,3 +34,5 @@
     },
     "license": "Apache-2.0"
 }
+echo "# Ninja-mann" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/Ninja-mann/Ninja-mann.git git push -u origin main
+
